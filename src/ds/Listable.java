@@ -7,7 +7,7 @@ package ds;
 
 /**
  *
- * @author Saumya
+ * @author Dilan
  */
 interface Listable {
     
